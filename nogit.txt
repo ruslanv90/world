@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test
+=======
+initial commit
+>>>>>>> parent of 37a5290 (ignore set up)
